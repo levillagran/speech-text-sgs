@@ -1,0 +1,108 @@
+[
+  {
+    "seccion": "De las Instalaciones y Requisitos de Buenas Prácticas de Manufactura",
+    "art": [
+      {
+        "numero": "73",
+        "titulo": "De las condiciones mínimas básicas.- El  establecimiento está diseñado y construido de acuerdo a las operaciones y riesgos asociados a la actividad y al alimento, Se cumplen con los siguientes requisitos:",
+        "item": [
+          {
+            "nombre": "a",
+            "pregunta": "El riesgo de contaminación y alteración es mínimo.",
+            "cumple": "",
+            "respuesta": "Se evidencia en la visita a las instalaciones de la empresa que el riesgo de contaminación se controla en la áeas críticas de proceso."
+          },
+          {
+            "nombre": "b",
+            "pregunta": "Permite mantenimiento,limpieza y desinfección apropiado;  mimiza riesgos de contaminación.",
+            "cumple": "",
+            "respuesta": "Las áreas de la empresa como son recepción, áreas de procesamiento, etiquetado, almacenamiento permiten tener una buena condición para actividades de limpieza. Se evidencia durante el recorrido que las superficies en contacto con el producto son lisa, de fácil mantenimiento y limpieza y busca minimizar la presencia de plagas."
+          }
+        ]
+      },
+      {
+        "numero": "74",
+        "titulo": "De las condiciones mínimas básicas.- El  establecimiento está diseñado y construido de acuerdo a las operaciones y riesgos asociados a la actividad y al alimento, Se cumplen con los siguientes requisitos:",
+        "item": [
+          {
+            "nombre": "",
+            "pregunta": "El establecimiento está protegido de focos de insalubridad que representen riesgos de contaminación.",
+            "cumple": "",
+            "respuesta": "Las áreas de la empresa como son recepción, áreas de procesamiento, etiquetado, almacenamiento permiten tener una buena condición para actividades de limpieza. Se evidencia durante el recorrido que las superficies en contacto con el producto son lisa, de fácil mantenimiento y limpieza y busca minimizar la presencia de plagas."
+          }
+        ]
+      },
+      {
+        "numero": "75",
+        "titulo": "Diseño y construcción.- La edificación debe diseñarse y construirse de manera que:",
+        "item": [
+          {
+            "nombre": "a",
+            "pregunta": "Ofrece protección.",
+            "cumple": "",
+            "respuesta": "Instalaciones ofrecen protección en áreas críticas con exclusas antes del ingreso a planta de producción, espacios adecuados para la operación, tránsito de materiales y de personas. Las áreas internas presentan un flujo de trabajo coherente minimizando el potencial peligro de contaminación cruzada. Se evidencia durante la visita la presencia de estaciones de lavado de manos antes de ingresar a la parte productiva"
+          },
+          {
+            "nombre": "b",
+            "pregunta": "Es sólida, dispone de espacio suficiente.",
+            "cumple": "",
+            "respuesta": "Instalaciones ofrecen protección en áreas críticas con exclusas antes del ingreso a planta de producción, espacios adecuados para la operación, tránsito de materiales y de personas. Las áreas internas presentan un flujo de trabajo coherente minimizando el potencial peligro de contaminación cruzada. Se evidencia durante la visita la presencia de estaciones de lavado de manos antes de ingresar a la parte productiva"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "seccion": "SECCION 2",
+    "art": [
+      {
+        "numero": "73",
+        "titulo": "De las condiciones mínimas básicas.- El  establecimiento está diseñado y construido de acuerdo a las operaciones y riesgos asociados a la actividad y al alimento, Se cumplen con los siguientes requisitos:",
+        "item": [
+          {
+            "nombre": "a",
+            "pregunta": "El riesgo de contaminación y alteración es mínimo.",
+            "cumple": "",
+            "respuesta": "Se evidencia en la visita a las instalaciones de la empresa que el riesgo de contaminación se controla en la áeas críticas de proceso."
+          },
+          {
+            "nombre": "b",
+            "pregunta": "Permite mantenimiento,limpieza y desinfección apropiado;  mimiza riesgos de contaminación.",
+            "cumple": "",
+            "respuesta": "Las áreas de la empresa como son recepción, áreas de procesamiento, etiquetado, almacenamiento permiten tener una buena condición para actividades de limpieza. Se evidencia durante el recorrido que las superficies en contacto con el producto son lisa, de fácil mantenimiento y limpieza y busca minimizar la presencia de plagas."
+          }
+        ]
+      },
+      {
+        "numero": "74",
+        "titulo": "De las condiciones mínimas básicas.- El  establecimiento está diseñado y construido de acuerdo a las operaciones y riesgos asociados a la actividad y al alimento, Se cumplen con los siguientes requisitos:",
+        "item": [
+          {
+            "nombre": "",
+            "pregunta": "El establecimiento está protegido de focos de insalubridad que representen riesgos de contaminación.",
+            "cumple": "",
+            "respuesta": "Las áreas de la empresa como son recepción, áreas de procesamiento, etiquetado, almacenamiento permiten tener una buena condición para actividades de limpieza. Se evidencia durante el recorrido que las superficies en contacto con el producto son lisa, de fácil mantenimiento y limpieza y busca minimizar la presencia de plagas."
+          }
+        ]
+      },
+      {
+        "numero": "75",
+        "titulo": "Diseño y construcción.- La edificación debe diseñarse y construirse de manera que:",
+        "item": [
+          {
+            "nombre": "a",
+            "pregunta": "Ofrece protección.",
+            "cumple": "",
+            "respuesta": "Instalaciones ofrecen protección en áreas críticas con exclusas antes del ingreso a planta de producción, espacios adecuados para la operación, tránsito de materiales y de personas. Las áreas internas presentan un flujo de trabajo coherente minimizando el potencial peligro de contaminación cruzada. Se evidencia durante la visita la presencia de estaciones de lavado de manos antes de ingresar a la parte productiva"
+          },
+          {
+            "nombre": "b",
+            "pregunta": "Es sólida, dispone de espacio suficiente.",
+            "cumple": "",
+            "respuesta": "Instalaciones ofrecen protección en áreas críticas con exclusas antes del ingreso a planta de producción, espacios adecuados para la operación, tránsito de materiales y de personas. Las áreas internas presentan un flujo de trabajo coherente minimizando el potencial peligro de contaminación cruzada. Se evidencia durante la visita la presencia de estaciones de lavado de manos antes de ingresar a la parte productiva"
+          }
+        ]
+      }
+    ]
+  }
+]
